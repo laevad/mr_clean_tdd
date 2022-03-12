@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.4
   get_it: ^7.2.0
   # Bloc for state management
   flutter_bloc: ^8.0.1
